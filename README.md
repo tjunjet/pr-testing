@@ -5,6 +5,7 @@ Testing of Computer Vision routing with PR
 
 `
 cd yolov5
+
 flask run -h 0.0.0.0
 `
 
